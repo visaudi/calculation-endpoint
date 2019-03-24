@@ -1,0 +1,23 @@
+{
+  "name": "calculation-endpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visaudi/calculation-endpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visaudi/calculation-endpoint/issues"
+  },
+  "homepage": "https://github.com/visaudi/calculation-endpoint#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
